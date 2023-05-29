@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648768290415",
+    "project_id": "tikanga-9375e",
+    "storage_bucket": "tikanga-9375e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648768290415:android:9bd394d1e3862026cd179a",
+        "android_client_info": {
+          "package_name": "com.example.tikanga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjPN24Mr6FsY5Gm4wjQRxwHlhB6OPAdLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
