@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'tikanga',
       theme: ThemeData.dark().copyWith(
-        scaffoldBackgroundColor: backgroundColor,
+        scaffoldBackgroundColor: backgroundColorBlack,
       ),
       home: const ResponsiveLayout(
         mobileScreenLayout: MobileLayoutScreen(),
